@@ -385,6 +385,17 @@ body {
     text-align: right;
     padding-right: 30px;
 }
+.page-content table tbody tr {
+  vertical-align: middle;
+  font-size: 15px ;
+}
+.page-content table thead {
+  font-size: 15px ;
+}
+.page-content table tbody tr th{
+  vertical-align: middle;
+}
+
 
 .page-wrapper .page-content > div  h1 {
   color:blue;
